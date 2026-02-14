@@ -1,1 +1,18 @@
-
+ print("all the world's a stage,")
+all the world's a stage,
+>>> print(" and all the men and women merely players: ")
+ and all the men and women merely players: 
+>>> print("they have their exits and their entrances;")
+they have their exits and their entrances;
+>>> print("and one man in his time plays many parts,")
+and one man in his time plays many parts,
+>>> print("his acts being seven ages")
+his acts being seven ages
+>>> print(" all the world's a stage,\nAll the men and women merely players:\nThey have their exits and their entrances;\nAnd one man in his time playsmany parts,\nHis acts beingseven ages.")
+ all the world's a stage,
+All the men and women merely players:
+They have their exits and their entrances;
+And one man in his time playsmany parts,
+His acts beingseven ages.
+>>> print("127","0","0","1",sep=".")
+127.0.0.1
